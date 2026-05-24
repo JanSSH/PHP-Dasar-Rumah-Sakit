@@ -21,16 +21,16 @@ Sistem sederhana untuk mengelola data dokter, pasien, poli, dan pendaftaran pasi
 
 📸 Preview Project
 🩺 Input Data Dokter
-<p align="center"> <img src="./Screenshot%202026-05-25%20002743.png" width="100%"> </p>
+<p align="center"> <img src="./screenshot/dokter.png" width="100%"> </p>
 
 👨‍⚕️ Input Data Pasien
-<p align="center"> <img src="./Screenshot%202026-05-25%20002751.png" width="100%"> </p>
+<p align="center"> <img src="./screenshot/pasien.png" width="100%"> </p>
 
 🏥 Input Data Poli
-<p align="center"> <img src="./Screenshot%202026-05-25%20002758.png" width="100%"> </p>
+<p align="center"> <img src="./screenshot/poli.png" width="100%"> </p>
 
 📝 Input Data Pendaftaran
-<p align="center"> <img src="./Screenshot%202026-05-25%20002803.png" width="100%"> </p>
+<p align="center"> <img src="./screenshot/pendaftaran.png" width="100%"> </p>
 
 ⚙️ Installation
 1️⃣ Clone Repository
