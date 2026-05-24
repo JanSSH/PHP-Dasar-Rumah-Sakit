@@ -34,7 +34,7 @@ Sistem sederhana untuk mengelola data dokter, pasien, poli, dan pendaftaran pasi
 
 ⚙️ Installation
 1️⃣ Clone Repository
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/JanSSH/PHP-Dasar-Rumah-Sakit.git
 
 2️⃣ Pindahkan ke Folder XAMPP/Laragon
 XAMPP: htdocs/data_rs
@@ -48,3 +48,13 @@ Database Data_RS.sql
 
 4️⃣ Jalankan Project
 http://localhost/data_rs
+
+🚀 Future Development
+🔹 Login Multi User
+🔹 Search Data
+🔹 Pagination
+🔹 Export PDF
+🔹 Dashboard Statistik
+🔹 Responsive Mobile Version
+🔹 Edit Data Feature
+🔹 Authentication Session
